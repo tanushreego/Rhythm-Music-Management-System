@@ -1,4 +1,4 @@
-#Music management Project - RHYTHM | Tools : HTML, CSS, PHP, Xampp, MySQL
+Music management Project - RHYTHM | Tools : HTML, CSS, PHP, Xampp, MySQL
 
 #INTRODUCTION
 
