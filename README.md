@@ -6,7 +6,7 @@
 The idea behind Music management website is to make the website user- friendly for the users to access the songs which they require efficiently.
 
 #ABSTRACT
-T-he aim of this project is the development of a centralized relational Music website.
+-The aim of this project is the development of a centralized relational Music website.
 This website provides users to make accounts and utilize the software to access Music and songs. This will be achieved by implementation of Database management and using a GUI interface for the complete software.
 ARCHITECTURE- ER DIAGRAM
 
